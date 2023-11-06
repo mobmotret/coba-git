@@ -1,1 +1,2 @@
 1. menambahkan isi dokoment pertama
+2. tambah baris kedua
